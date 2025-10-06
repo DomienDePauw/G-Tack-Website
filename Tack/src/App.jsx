@@ -1,11 +1,9 @@
 import React from 'react'
-import './App.css'
+import IntroSection from './components/IntroSection'
 
 function App() {
   return (
-    <div>
-      <AboutSection />
-    </div>
+      <IntroSection/>
   )
 }
 
