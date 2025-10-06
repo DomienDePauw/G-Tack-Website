@@ -8,4 +8,4 @@ source control - git
 - config --global user.email "{email}"
 
 installing Tailwind
-- 
+- https://tailwindcss.com/docs/installation/using-vite
