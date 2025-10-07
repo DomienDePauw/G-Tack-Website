@@ -1,2 +1,2 @@
 # G-Tack-Website
-Catering website for Goretti Tack, React project.
+One-page React project, re-usable components, tailwindcss,...
