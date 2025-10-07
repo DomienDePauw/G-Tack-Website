@@ -1,12 +1,14 @@
 import React from 'react'
-import IntroSection from './components/IntroSection'
 import Header from './components/Header'
+import IntroSection from './components/IntroSection'
+import EtenWatDePotSchaftSection from './components/EtenWatDePotSchaftSection'
 
 function App() {
   return (
     <>
       <Header/>
       <IntroSection/>
+      <EtenWatDePotSchaftSection/>
     </>
   )
 }
